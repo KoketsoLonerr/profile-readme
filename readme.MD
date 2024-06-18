@@ -21,7 +21,7 @@
  <a href="https://lonerrtech.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="koketso" />
  </a>
- <a href="https://www.linkedin.com/in/mmamonwana-marble-tjatji-a29523160/" target="_blank">
+ <a href="https://www.linkedin.com/in/m-m-tjatji-a29523160/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="koketso"/>
  </a>
  <a href="https://twitter.com/popul_rlonerr" target="_blank">
